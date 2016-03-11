@@ -6,7 +6,7 @@ DEPENDENCIES
 - Affectiva SDK License
 	- Should be placed in "C:\\Program Files (x86)\\Affectiva\\Affdex SDK\\affdex.license"
 - OpenCV for Windows 2.4.9: http://sourceforge.net/projects/opencvlibrary/files/opencv-win/2.4.9/
-- Visual Studio 2013 or higher (for editting and compiling the EXE)
+- Visual Studio 2013 or higher (for editing and compiling the EXE)
 
 COMPILING
 ---------
@@ -27,5 +27,5 @@ RUNNING
 TROUBLESHOOTING
 ---------------
 
-- If you cannot compile, make sure OpenCV is in the root folder
+- If you cannot compile, make sure OpenCV is in the root folder.
 - If you cannot run the executable, make sure you have an SDK license in the appropriate folder (where the SDK is located).
