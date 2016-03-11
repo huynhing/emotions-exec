@@ -1,4 +1,5 @@
-Dependencies
+DEPENDENCIES
+------------
 
 - Affdex SDK 2.0 (32 bit)
 - OpenCV for Windows 2.4.9: http://sourceforge.net/projects/opencvlibrary/files/opencv-win/2.4.9/
